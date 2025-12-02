@@ -1,0 +1,5 @@
+topic: sample, partition: 0, offset: 3, key: myKey, value: New record from Producer Sample 2
+topic: sample, partition: 0, offset: 4, key: myKey, value: New record from Producer Sample 2
+topic: sample, partition: 0, offset: 5, key: myKey, value: New record from Producer Sample 2
+topic: sample, partition: 0, offset: 6, key: myKey, value: New record from Producer Sample 3
+topic: sample, partition: 0, offset: 7, key: myKey, value: New record from Producer Sample 10
